@@ -1,0 +1,42 @@
+[{
+    "type": "column2d",
+    "renderAt": "chart-container",
+    "width": "550",
+    "height": "350",
+    "dataFormat": "json",
+    "dataSource": {
+        "chart": {
+            "caption": "Population Density Per Square Mile",
+            "subCaption": "Source: https://www.geographyrealm.com/continents-population-density/",
+            "theme": "fusion"
+        },
+        "data": [
+            {
+                "label": "Africa",
+                "value": "87"
+            },
+            {
+                "label": "Asia",
+                "value": "246"
+            },
+            {
+                "label": "Australia",
+                "value": "8.3"
+            },
+            {
+                "label": "Europe",
+                "value": "188"
+            },   
+            {
+                "label": "North America",
+                "value": "57"
+            },                      
+            {
+                "label": "South America",
+                "value": "57"
+            }
+
+
+        ]
+    }
+}]
